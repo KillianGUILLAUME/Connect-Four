@@ -2,4 +2,4 @@
 
 Little game in python, with AI implementation.
 
-It uses minmax algorothm
+It uses minmax algorithm.
